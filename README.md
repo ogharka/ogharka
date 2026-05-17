@@ -43,7 +43,7 @@ PVP Chess on **Base** with real **USDC prizes**
 ### 📫 Connect With Me
 
 - GitHub: [@ogharka](https://github.com/ogharka)
-- X / Twitter: [Your X Handle]
+- X / Twitter: https://x.com/mogharka
 - Base Wallet: Coming Soon
 
 ---
