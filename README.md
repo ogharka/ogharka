@@ -31,13 +31,6 @@ On-chain chess mini-app built on Base. Every battle earns war points toward the 
 
 ---
 
-### Also Built
-
-**BaseChess Arena** — [Live](https://ogharka.github.io/BaseChess-Arena)
-Original on-chain PvP chess with USDC prizes on Base. Simple, fast, fully on-chain.
-
----
-
 ### What I'm Building
 
 - On-chain PvP games on Base
