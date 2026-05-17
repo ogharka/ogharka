@@ -1,67 +1,71 @@
 <div align="center">
-  <h1> Hi, I'm Harka</h1>
-  <h3>Building on <strong>Base</strong> • Blockchain Games & dApps</h3>
-  <img src="https://img.shields.io/badge/Base-Chain-blue?style=flat-square&logo=base" alt="Base" />
-  <img src="https://img.shields.io/badge/USDC-Ready-00ff88?style=flat-square" alt="USDC" />
-  <img src="https://img.shields.io/badge/Chess-Base-ffd700?style=flat-square" alt="ChessBase" />
-  <img src="https://img.shields.io/badge/NFT-Boosted-c97af0?style=flat-square" alt="NFT" />
-  <img src="https://img.shields.io/badge/CHESS-Token-ff6b35?style=flat-square" alt="Token" />
+
+<h1>Hi, I'm Harka</h1>
+<h3>Building on <strong>Base</strong> · Blockchain Games & dApps</h3>
+
+<img src="https://img.shields.io/badge/Base-Chain-0052FF?style=flat-square&logo=coinbase&logoColor=white" alt="Base" />
+<img src="https://img.shields.io/badge/USDC-Payments-2775CA?style=flat-square" alt="USDC" />
+<img src="https://img.shields.io/badge/ChessWar-Live-c0392b?style=flat-square" alt="ChessWar" />
+<img src="https://img.shields.io/badge/NFT-Boosted-c97af0?style=flat-square" alt="NFT" />
+<img src="https://img.shields.io/badge/CWAR-Token-c9a84c?style=flat-square" alt="Token" />
+
 </div>
 
 ---
 
-###  Current Project
+### Current Project
 
-**ChessWar** ♟️  
-Full chess mini-app on **Base** — PvP, bets, NFTs, tournaments & token airdrop
+**ChessWar** — [chesswar-sage.vercel.app](https://chesswar-sage.vercel.app)
 
--  Play vs humans or AI bot (Easy → Master)
--  Bet USDC — min 0.10, no max — smart contract escrow
--  Earn points every game — 5× boost on bet games
--  Mint Chess NFTs for up to **5× point multiplier**
--  Enter tournaments — 5 USDC entry, USDC prize pools
--  **1,000,000,000 CHESS token** launching — top earners get the airdrop
--  Refer friends — earn **1,000 points** per referral
+On-chain chess mini-app built on Base. Every battle earns war points toward the CWAR token airdrop.
 
- Live App: [ChessBase](https://chesswar.vercel.app)
- Contracts: Deployed on Base — escrow, NFT, token
-
----
-
-###  Also Built
-
-**Chess Arena** ♟️ — Original PVP chess with USDC prizes  
-🔗 [Live](https://ogharka.github.io/cheesswar-Arena) · Simple · Fast · Onchain
+| Feature | Details |
+|---|---|
+| PvP Battles | Play vs real opponents online |
+| vs AI | Recruit → Soldier → General → Warlord |
+| Bet Games | USDC wager · min 0.10 · winner takes all · 5× points |
+| War NFTs | Soldier / Knight / Commander / Warlord · up to 5× boost |
+| Tournaments | 5 USDC entry · USDC prize pools |
+| CWAR Token | 1,000,000,000 supply · airdrop to top point earners |
+| Referrals | 1,000 war points per recruit |
 
 ---
 
-###  What I'm Building
+### Also Built
 
-- Onchain PVP Games on Base
-- USDC Gaming Economy
-- NFT Point Boost Systems
-- Token Launch + Airdrop Mechanics
-- Prediction Markets & Mini-Apps
+**BaseChess Arena** — [Live](https://ogharka.github.io/BaseChess-Arena)
+Original on-chain PvP chess with USDC prizes on Base. Simple, fast, fully on-chain.
 
 ---
 
-###  Tech Stack
+### What I'm Building
 
-- **Blockchain**: Base, USDC, Ethers.js, Solidity
-- **Frontend**: React, Chess.js, react-chessboard, Zustand
-- **Tools**: GitHub, Vercel, Remix IDE
+- On-chain PvP games on Base
+- USDC gaming economy
+- NFT point boost systems
+- Token launch + airdrop mechanics
+- Prediction markets & mini-apps
 
 ---
 
-###  Connect With Me
+### Tech Stack
+
+| Layer | Tools |
+|---|---|
+| Blockchain | Base, USDC, Ethers.js v6, Solidity |
+| Frontend | React 18, Chess.js, react-chessboard, Zustand |
+| Infrastructure | GitHub, Vercel, Remix IDE |
+
+---
+
+### Connect
 
 - GitHub: [@ogharka](https://github.com/ogharka)
-- X / Twitter: https://x.com/mogharka
-- Base Wallet: Coming Soon
+- Twitter: [@mogharka](https://x.com/mogharka)
+- App: [chesswar-sage.vercel.app](https://chesswar-sage.vercel.app)
 
 ---
 
-###  Fun Fact
-
-I turn coffee into onchain chess games ☕♟️  
-*1,000,000,000 CHESS tokens launching soon — play now to earn your share*
+<div align="center">
+  <sub>Building the on-chain chess economy on Base · War never ends</sub>
+</div>
