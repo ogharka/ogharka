@@ -1,42 +1,55 @@
 <div align="center">
   <h1>👋 Hi, I'm Harka</h1>
   <h3>Building on <strong>Base</strong> • Blockchain Games & dApps</h3>
-
   <img src="https://img.shields.io/badge/Base-Chain-blue?style=flat-square&logo=base" alt="Base" />
   <img src="https://img.shields.io/badge/USDC-Ready-00ff88?style=flat-square" alt="USDC" />
-  <img src="https://img.shields.io/badge/Chess-Arena-ffd700?style=flat-square" alt="Chess" />
+  <img src="https://img.shields.io/badge/Chess-Base-ffd700?style=flat-square" alt="ChessBase" />
+  <img src="https://img.shields.io/badge/NFT-Boosted-c97af0?style=flat-square" alt="NFT" />
+  <img src="https://img.shields.io/badge/CHESS-Token-ff6b35?style=flat-square" alt="Token" />
 </div>
 
 ---
 
 ### 🚀 Current Project
 
-**BaseChess Arena** ♟️  
-PVP Chess on **Base** with real **USDC prizes**
+**ChessBase** ♟️  
+Full chess mini-app on **Base** — PvP, bets, NFTs, tournaments & token airdrop
 
-- Deposit USDC → Play against others
-- Winner gets **90%** of the pot
-- **10%** goes to project pool (future token buyback)
-- Fully onchain experience on Base
+- ♟ Play vs humans or AI bot (Easy → Master)
+- 💰 Bet USDC — min 0.10, no max — smart contract escrow
+- ⭐ Earn points every game — 5× boost on bet games
+- 🎨 Mint Chess NFTs for up to **5× point multiplier**
+- 🏆 Enter tournaments — 5 USDC entry, USDC prize pools
+- 🪂 **1,000,000,000 CHESS token** launching — top earners get the airdrop
+- 👥 Refer friends — earn **1,000 points** per referral
 
-🔗 Live Game: [BaseChess Arena](https://ogharka.github.io/BaseChess-Arena)
+🔗 Live App: [ChessBase](https://chessbase.vercel.app)
+📄 Contracts: Deployed on Base — escrow, NFT, token
+
+---
+
+### 🏗️ Also Built
+
+**BaseChess Arena** ♟️ — Original PVP chess with USDC prizes  
+🔗 [Live](https://ogharka.github.io/BaseChess-Arena) · Simple · Fast · Onchain
 
 ---
 
 ### 🌱 What I'm Building
 
 - Onchain PVP Games on Base
-- Prediction Markets & Mini-Apps
 - USDC Gaming Economy
-- Future Token + NFT Integration
+- NFT Point Boost Systems
+- Token Launch + Airdrop Mechanics
+- Prediction Markets & Mini-Apps
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Blockchain**: Coinbase Base, USDC, Wagmi, Viem
-- **Frontend**: Next.js, Tailwind, Chess.js
-- **Tools**: GitHub, Replit, Vercel
+- **Blockchain**: Base, USDC, Ethers.js, Solidity
+- **Frontend**: React, Chess.js, react-chessboard, Zustand
+- **Tools**: GitHub, Vercel, Remix IDE
 
 ---
 
@@ -49,11 +62,6 @@ PVP Chess on **Base** with real **USDC prizes**
 ---
 
 ### ✨ Fun Fact
-I turn coffee into onchain chess games ☕♟️
 
----
-
-<!---
-ogharka/ogharka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I turn coffee into onchain chess games ☕♟️  
+*1,000,000,000 CHESS tokens launching soon — play now to earn your share*
