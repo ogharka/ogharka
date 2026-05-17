@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Harka</h1>
-  <h3>Building on <strong>Coinbase Base</strong> • Blockchain Games & dApps</h3>
+  <h3>Building on <strong>Base</strong> • Blockchain Games & dApps</h3>
 
   <img src="https://img.shields.io/badge/Base-Chain-blue?style=flat-square&logo=base" alt="Base" />
   <img src="https://img.shields.io/badge/USDC-Ready-00ff88?style=flat-square" alt="USDC" />
@@ -12,7 +12,7 @@
 ### 🚀 Current Project
 
 **BaseChess Arena** ♟️  
-PVP Chess on **Coinbase Base** with real **USDC prizes**
+PVP Chess on **Base** with real **USDC prizes**
 
 - Deposit USDC → Play against others
 - Winner gets **90%** of the pot
