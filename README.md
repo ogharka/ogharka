@@ -12,7 +12,7 @@
 
 ###  Current Project
 
-**ChessBase** ♟️  
+**ChessWar** ♟️  
 Full chess mini-app on **Base** — PvP, bets, NFTs, tournaments & token airdrop
 
 -  Play vs humans or AI bot (Easy → Master)
@@ -23,15 +23,15 @@ Full chess mini-app on **Base** — PvP, bets, NFTs, tournaments & token airdrop
 -  **1,000,000,000 CHESS token** launching — top earners get the airdrop
 -  Refer friends — earn **1,000 points** per referral
 
- Live App: [ChessBase](https://chessbase.vercel.app)
+ Live App: [ChessBase](https://chesswar.vercel.app)
  Contracts: Deployed on Base — escrow, NFT, token
 
 ---
 
 ###  Also Built
 
-**BaseChess Arena** ♟️ — Original PVP chess with USDC prizes  
-🔗 [Live](https://ogharka.github.io/BaseChess-Arena) · Simple · Fast · Onchain
+**Chess Arena** ♟️ — Original PVP chess with USDC prizes  
+🔗 [Live](https://ogharka.github.io/cheesswar-Arena) · Simple · Fast · Onchain
 
 ---
 
