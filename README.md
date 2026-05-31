@@ -15,7 +15,7 @@
 
 ### Current Project
 
-**ChessWar** — [chesswar-sage.vercel.app](https://chesswar-sage.vercel.app)
+**ChessWar** — www.chesswar.xyz
 
 On-chain chess mini-app built on Base. Every battle earns war points toward the CWAR token airdrop.
 
